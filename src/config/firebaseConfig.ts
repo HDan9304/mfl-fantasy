@@ -4,12 +4,12 @@ import { getFirestore } from "firebase/firestore";
 
 // Replace these with your actual Firebase project settings
 const firebaseConfig = {
-  apiKey: "YOUR_API_KEY",
-  authDomain: "YOUR_PROJECT_ID.firebaseapp.com",
-  projectId: "YOUR_PROJECT_ID",
-  storageBucket: "YOUR_PROJECT_ID.appspot.com",
-  messagingSenderId: "YOUR_SENDER_ID",
-  appId: "YOUR_APP_ID"
+  apiKey: "AIzaSyCpFfFk1ysXWbzR_nItEP21wokOzCUaVDo",
+  authDomain: "mfl-fantasy-league.firebaseapp.com",
+  projectId: "mfl-fantasy-league",
+  storageBucket: "mfl-fantasy-league.firebasestorage.app",
+  messagingSenderId: "804856485779",
+  appId: "1:804856485779:web:cc9c4ae6bbd5d552967a66"
 };
 
 const app = initializeApp(firebaseConfig);
